@@ -12,26 +12,6 @@
 
 ---
 
-## 👤 Profile & Stats
-
-<div align="center">
-
-| 🌐 Profile | 🔗 Link |
-| :--- | :--- |
-| **LeetCode Profile** | [leetcode.com/u/arpit797](https://leetcode.com/u/arpit797/) |
-| **GitHub Profile** | [github.com/arpit797](https://github.com/arpit797) |
-
-<br/>
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/arpit797/">
-  <img src="https://leetcard.jacoblin.cool/arpit797?theme=dark&font=JetBrains%20Mono&ext=activity" alt="Arpit's LeetCode Stats" />
-</a>
-
-</div>
-
----
-
 ## 📁 Repository Structure
 
 Solutions are automatically synced into categorized folders with problem statements and SQL queries:
